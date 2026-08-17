@@ -1,0 +1,21 @@
+# Raw datasets
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Power BI temporary files
+*.tmp
+
+# Environment files
+.env
