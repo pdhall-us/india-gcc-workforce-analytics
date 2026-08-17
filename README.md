@@ -40,9 +40,9 @@ Which Indian city provides the strongest opportunity for establishing or expandi
 - [x] Location normalization
 - [x] Hiring-demand analysis
 - [x] Initial salary analysis
-- [ ] Python cleaning and EDA
-- [ ] Workforce classification
-- [ ] Skills analysis
+- [x] Python cleaning and EDA
+- [x] Workforce classification
+- [x] Skills analysis
 - [ ] PostgreSQL data model
 - [ ] SQL analysis
 - [ ] Power BI dashboard
